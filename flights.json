@@ -1,0 +1,23 @@
+[
+  {
+    "departure": "12-12-2019",
+    "arrival": "24-12-2019",
+    "flyingFrom": {},
+    "flyingTo": {},
+    "company": "American Airlines"
+  },
+  {
+    "departure": "26-12-2019",
+    "arrival": "Invalid date",
+    "flyingFrom": {},
+    "flyingTo": {},
+    "company": "British Airways"
+  },
+  {
+    "departure": "23-12-2019",
+    "arrival": "Invalid date",
+    "flyingFrom": {},
+    "flyingTo": {},
+    "company": "American Airlines"
+  }
+]
