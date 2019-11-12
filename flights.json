@@ -1,23 +1,72 @@
 [
   {
-    "departure": "12-12-2019",
-    "arrival": "24-12-2019",
-    "flyingFrom": {},
-    "flyingTo": {},
+    "departure": "22-01-2020",
+    "arrival": "18-09-2020",
+    "flyingFrom": "Mali",
+    "flyingTo": "Thailand",
     "company": "American Airlines"
   },
   {
-    "departure": "26-12-2019",
-    "arrival": "Invalid date",
-    "flyingFrom": {},
-    "flyingTo": {},
+    "departure": "13-05-2020",
+    "arrival": "08-10-2020",
+    "flyingFrom": "Anguilla",
+    "flyingTo": "Åland Islands",
+    "company": "ELAL"
+  },
+  {
+    "departure": "28-02-2020",
+    "arrival": "01-09-2020",
+    "flyingFrom": "Burkina Faso",
+    "flyingTo": "Liberia",
+    "company": "American Airlines"
+  },
+  {
+    "departure": "08-12-2019",
+    "arrival": "25-01-2020",
+    "flyingFrom": "Italy",
+    "flyingTo": "Madagascar",
+    "company": "ELAL"
+  },
+  {
+    "departure": "23-09-2020",
+    "arrival": "21-10-2020",
+    "flyingFrom": "Tunisia",
+    "flyingTo": "Bahrain",
+    "company": "American Airlines"
+  },
+  {
+    "departure": "04-02-2020",
+    "arrival": "28-05-2020",
+    "flyingFrom": "Hong Kong",
+    "flyingTo": "Swaziland",
+    "company": "ELAL"
+  },
+  {
+    "departure": "05-12-2019",
+    "arrival": "16-06-2020",
+    "flyingFrom": "Papua New Guinea",
+    "flyingTo": "Sweden",
+    "company": "American Airlines"
+  },
+  {
+    "departure": "20-06-2020",
+    "arrival": "23-10-2020",
+    "flyingFrom": "Switzerland",
+    "flyingTo": "Germany",
+    "company": "American Airlines"
+  },
+  {
+    "departure": "04-01-2020",
+    "arrival": "30-03-2020",
+    "flyingFrom": "Luxembourg",
+    "flyingTo": "Canada",
+    "company": "American Airlines"
+  },
+  {
+    "departure": "28-10-2020",
+    "arrival": "20-11-2020",
+    "flyingFrom": "Turks and Caicos Islands",
+    "flyingTo": "Hungary",
     "company": "British Airways"
-  },
-  {
-    "departure": "23-12-2019",
-    "arrival": "Invalid date",
-    "flyingFrom": {},
-    "flyingTo": {},
-    "company": "American Airlines"
   }
 ]

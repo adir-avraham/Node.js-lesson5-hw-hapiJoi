@@ -14,5 +14,13 @@
   {
     "userName": "esti@com",
     "password": "1111"
+  },
+  {
+    "userName": "esti$com",
+    "password": "1111"
+  },
+  {
+    "userName": "Ayala@com",
+    "password": "1111"
   }
 ]

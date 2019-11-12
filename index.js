@@ -4,11 +4,11 @@ const bodyParser = require('body-parser');
 const api = express();
 const registerUser = require('./login/register');
 const userLogin = require('./login/login');
-const generateFlights = require('./generateFlights');
+const getCountry = require('./generateFlights');
 
 
 api.use(bodyParser.json());
-
+api.use('/', getCountry)
 api.use('/', registerUser);
 
 api.use('/', userLogin);
