@@ -1,42 +1,18 @@
 [
   {
-    "userName": "e28",
-    "password": 1111
+    "userName": "Nitzan@com",
+    "password": "1111"
   },
   {
-    "userName": "e29",
-    "password": 1111
+    "userName": "Adir@com",
+    "password": "1111"
   },
   {
-    "userName": "e30",
-    "password": 1111
-  },
-  {
-    "userName": "e3",
-    "password": 1111
-  },
-  {
-    "userName": "adir@com",
-    "password": 4
+    "userName": "Adircom",
+    "password": "1111"
   },
   {
     "userName": "esti@com",
-    "password": "1111"
-  },
-  {
-    "userName": "Guli@com",
-    "password": "1111"
-  },
-  {
-    "userName": "Gulicom",
-    "password": "1111"
-  },
-  {
-    "userName": "Guli$com",
-    "password": "1111"
-  },
-  {
-    "userName": "Nitzan@com",
     "password": "1111"
   }
 ]
