@@ -18,7 +18,6 @@ router.post('/register',(req, res, next) => {
     users.push({userName, password});
     writeTofile('users.json', users );
     res.send("User registered successfully");
-    console.log(users)
 })
 
 
