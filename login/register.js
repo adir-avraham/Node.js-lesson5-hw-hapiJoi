@@ -8,7 +8,6 @@ const users = JSON.parse(data);
 
 
 
-
 router.use('/', validation);
 
 

@@ -10,11 +10,10 @@ const saveFlights = require('./routes/saveFlights');
 
 
 api.use(bodyParser.json());
+
 api.use('/', getCountry);
 api.use('/', registerUser);
-
 api.use('/', userLogin);
-
 api.use('/', getFlights);
 api.use('/', saveFlights);
 

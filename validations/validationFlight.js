@@ -13,13 +13,11 @@ const flightSchema = Joi.object({
 
 router.use('/saveFlights', (req, res, next)=>{
     for (let i = 0; i< req.body.length; i++) {
-        //const { departure, arrival, flyingFrom,flyingTo, company } = req.body[i];
         const {error} = (flightSchema.validate(req.body[i])) 
         if (error) return res.send(error);
     }
     next()
 })
-
 
 
 

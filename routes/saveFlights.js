@@ -8,7 +8,6 @@ router.use('/', validationFlight)
 
 router.post('/saveFlights', (req, res, next)=>{
 
-  
    for (let i = 0; i< req.body.length; i++) {
    const { departure, arrival, flyingFrom,flyingTo, company } = req.body[i];
    flights.push({ departure, arrival, flyingFrom,flyingTo, company });
